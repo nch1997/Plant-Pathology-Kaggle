@@ -9,3 +9,7 @@ Misdiagnosis of the many diseases impacting agricultural crops can lead to misus
 
 # Specific Objectives
 Objectives of ‘Plant Pathology Challenge’ are to train a model using images of training dataset to 1) Accurately classify a given image from testing dataset into different diseased category or a healthy leaf; 2) Accurately distinguish between many diseases, sometimes more than one on a single leaf; 3) Deal with rare classes and novel symptoms; 4) Address depth perception—angle, light, shade, physiological age of the leaf; and 5) Incorporate expert knowledge in identification, annotation, quantification, and guiding computer vision to search for relevant features during learning.
+
+# Final Results (Training Representation)
+
+![Result Graph](https://github.com/nch1997/Plant-Pathology-Kaggle/blob/master/resnet50_oneshotnice.png)
